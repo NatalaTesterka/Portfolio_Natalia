@@ -1,7 +1,7 @@
 # Portfolio
 
 <p>
-<img src="screenshots/AboutMe.png">
+<img src="AboutMe.png">
 </p>
   
 
