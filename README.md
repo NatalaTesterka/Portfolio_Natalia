@@ -8,13 +8,13 @@
 ## Connect with me
 <br>
 
-[<img align="left" alt="linked-in" src="screenshots/linkedin.png"/>](https://www.linkedin.com/in/natalia-slomian-kaluzna-29710820a)
+[<img align="left" alt="linked-in" src="linkedin.png"/>](https://www.linkedin.com/in/natalia-slomian-kaluzna-29710820a)
 </br>
 <br>
-[<img align="left" alt="instagram" src="screenshots/instagram.png"/>](https://www.instagram.com/nataliafoci)
+[<img align="left" alt="instagram" src="instagram.png"/>](https://www.instagram.com/nataliafoci)
 </br>
 <br>
-[<img align="left" alt="facebook" src="screenshots/facebook.png"/>](https://www.facebook.com/profile.php?id=100000849835976)    
+[<img align="left" alt="facebook" src="facebook.png"/>](https://www.facebook.com/profile.php?id=100000849835976)    
 </br>
   
 ## Tools
