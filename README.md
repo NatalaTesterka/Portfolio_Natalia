@@ -8,7 +8,7 @@
 ## Connect with me
 <br>
 
-[<img align="left" alt="linked-in" src="linkedin.png"/>](https://www.linkedin.com/in/natalia-slomian-kaluzna-29710820a)
+[<img align="left" alt="linked-in" src="linkedin.jpg"/>](https://www.linkedin.com/in/natalia-slomian-kaluzna-29710820a)
 </br>
 <br>
 [<img align="left" alt="instagram" src="instagram.png"/>](https://www.instagram.com/nataliafoci)
