@@ -33,7 +33,7 @@
 * Bezpłatny Maraton GoIT HTML/ CSS - czerwiec 2022
 * Podstawy manualnego testowania oprogramowania. Udemy
 * Dare IT Challenge - Manual Testing, styczeń - luty 2023
-* Devtools - kurs online. Adam Gola
+* Konsola Deweloperska, szkolenie dla QA (Adam Gola), luty 2023
 * Dzień Kobiet IT Future Collars 2022 - Warsztaty Testowania
 * Szkolenie Tester IT - Marek Koszałka, listopad 2022
 * Dare IT - Zbuduj swoją samoskuteczność, luty - marzec 2023
