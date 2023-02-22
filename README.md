@@ -36,7 +36,7 @@
 * Devtools - kurs online. Adam Gola
 * Dzień Kobiet IT Future Collars 2022 - Warsztaty Testowania
 * Szkolenie Tester IT - Marek Koszałka, listopad 2022
-* Dare IT - Zbuduj swoją samoskuteczność
+* Dare IT - Zbuduj swoją samoskuteczność, luty - marzec 2023
 
 ## Projects
 
