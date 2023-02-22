@@ -38,6 +38,14 @@
 * Szkolenie Tester IT - Marek Koszałka, listopad 2022
 * Dare IT - Zbuduj swoją samoskuteczność, luty - marzec 2023
 
+## Podcasts
+
+* "Po szklanie i na testowanie"
+* "Testing Parrot"
+* "Forbes Women Podcast"
+* "Strefa Technologii Uniwersytetu SWPS"
+* "Porozmawiajmy o IT"
+
 ## Projects
 
 <br><b>[Projekt CV (Go IT)](https://hilarious-elf-d868e2.netlify.app)</b></br>
