@@ -25,9 +25,6 @@
 * Xampp - for SQL database
 * HTML/CSS - basics
 
-
-
-
 ## Courses, Workshops, Webinars
 
 * Bezpłatny Maraton GoIT HTML/ CSS - czerwiec 2022
@@ -52,11 +49,13 @@
 <b>[Dare IT Challenge](https://drive.google.com/drive/folders/1hv4sjuAChRSaTRl_-uUqe_qSAYfsrssU?usp=share_link)</b>
 
 ## Books
+
 1. Certyfikowany tester Sylabus poziomu podstawowego ISTQB
 2. Adam Roman, Lucjan Stapp "Certyfikowany tester ISTQB Poziom Podstawowy"
 3. Smilgin Radosław "Zawód Tester. Od decyzji do zdobycia doświadczenia"
 
 ## IT Groups on Social Media
+
 <b>Facebook:</b>
 1. [Testuj, Dziewczyno!](https://www.facebook.com/groups/514014750879165)
 2. [Praca w IT dla Stażystów i Juniorów](https://www.facebook.com/groups/1561984417428846)
@@ -73,6 +72,7 @@
 5. [mygeeksisters](https://www.instagram.com/mygeeksisters/)
 
 ## Blogs
+
 * [Testerzy.pl](https://testerzy.pl/)
 * [Testuj.pl](https://testuj.pl/)
 * [Tester. MilenaBednarczyk](https://tester.milenabednarczyk.pl/)
